@@ -177,7 +177,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="MOVIE TV", HBOFamily
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="MOVIE TV", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -198,38 +198,53 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="MOVIE TV", HBOHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="MOVIE TV", HBOHits
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="MOVIE TV", HBOSignature
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="MOVIE TV", HBOFamily
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="MOVIE TV",Cinemax
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="MOVIE TV",Rock-Entertainment
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="MOVIE TV",Rock-Entertainment
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0165/DASH/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=adb4d07252679a866baa2361c511d180&chunkHttps=true&tmid=B0003&tpbk=1V54YXiaV7Ao4qpB&rrt=1762065729&tmod=rfk&rsid=ee7d7c48-8881-4c1c-9c5d-a9a11be0d089&tuid=433579ab2f&cdn=redfox-https&tdid=f2ba975334ff40bdaa6ad7a33fb78206&origin=anevia&tfa=f0-fc&tttl=1762152129
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="MOVIE TV",ROCKAction
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191950&extension=ts
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=adb4d07252679a866baa2361c511d180&chunkHttps=true&tmid=B0003&tpbk=1V54YXiaV7Ao4qpB&rrt=1762065729&tmod=rfk&rsid=ee7d7c48-8881-4c1c-9c5d-a9a11be0d089&tuid=433579ab2f&cdn=redfox-https&tdid=f2ba975334ff40bdaa6ad7a33fb78206&origin=anevia&tfa=f0-fc&tttl=1762152129
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="MOVIE TV", HBO HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+https://nongakka.github.io/iptv/m3u8/HBO-720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="MOVIE TV", HBO Hits
+https://nongakka.github.io/iptv/m3u8/HBO hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="MOVIE TV", HBO Signature
+https://nongakka.github.io/iptv/m3u8/HBO sig.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="MOVIE TV", HBO Family
+https://nongakka.github.io/iptv/m3u8/HBO family.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="MOVIE TV",Cinemax
+https://nongakka.github.io/iptv/m3u8/cinemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="MOVIE TV",Rock-Entertainment
+https://nongakka.github.io/iptv/m3u8/rockentertainmentred.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="MOVIE TV",ROCK Action
+https://nongakka.github.io/iptv/m3u8/rockaction.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueTHAIFILM
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=ts
+https://nongakka.github.io/iptv/m3u8/true thaifilm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueFILM1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186617&extension=ts
+https://nongakka.github.io/iptv/m3u8/trueFILM1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueFILM2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186464&extension=ts
+https://nongakka.github.io/iptv/m3u8/trueFILM2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueMOVIEHITS
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
+https://nongakka.github.io/iptv/m3u8/trueMOVIEHITS.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueFILMASIA
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts
+https://nongakka.github.io/iptv/m3u8/true filmasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueSeries
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="MOVIE TV",TrueASIANMORE
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563002&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="MOVIE TV",CCM
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191918&extension=ts
+https://nongakka.github.io/iptv/m3u8/true series.m3u8
+##EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="MOVIE TV",CCM
+https://nongakka.github.io/iptv/m3u8/true ccm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="MOVIE TV",AsianHits
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=ts
+https://nongakka.github.io/iptv/m3u8/asian-hits-720.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/movie3.png" group-title="MOVIE TV",movies 1
