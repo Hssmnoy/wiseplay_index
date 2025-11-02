@@ -198,6 +198,27 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueTHAIFILM
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueFILM1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186617&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueFILM2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186464&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueMOVIEHITS
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueFILMASIA
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueSeries
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="MOVIE TV",TrueASIANMORE
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191918&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/movie3.png" group-title="MOVIE TV",movies 1
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
