@@ -297,30 +297,19 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่อง สารคดี",Discovery
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186437&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่อง สารคดี",History
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186516&extension=ts
+https://nongakka.github.io/iptv/m3u8/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่อง สารคดี", MySci
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186535&extension=ts
+https://nongakka.github.io/iptv/m3u8/mysci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่อง สารคดี", Animal Show
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186381&extension=ts
+https://nongakka.github.io/iptv/m3u8/animalshow.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่อง สารคดี", Khong Dee Thailand
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186634&extension=ts
+https://nongakka.github.io/iptv/m3u8/khongdee.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่อง สารคดี", Thainess
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
+https://nongakka.github.io/iptv/m3u8/ch-thainess.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่อง สารคดี",Food Network
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186468&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="ช่อง สารคดี", asian food channel
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่อง สารคดี", Samrujlok
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186535&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่อง สารคดี", MySci
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191818&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่อง สารคดี", Animal Show
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186393&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่อง สารคดี", Khong Dee Thailand
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186634&extension=ts
-
+https://nongakka.github.io/iptv/m3u8/asianfoodnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่อง สารคดี",Samrujlok
+https://nongakka.github.io/iptv/m3u8/Samrujlok.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่อง สารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
