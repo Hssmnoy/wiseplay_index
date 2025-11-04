@@ -227,6 +227,9 @@ https://nongakka.github.io/iptv/m3u8/rockentertainmentred.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="MOVIE TV",ROCK Action
 https://nongakka.github.io/iptv/m3u8/rockaction.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/asianmore.webp" group-title="MOVIE TV",True Asian More
+https://nongakka.github.io/iptv/m3u8/true asian more.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="MOVIE TV",TrueTHAIFILM
 https://nongakka.github.io/iptv/m3u8/true thaifilm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MOVIE TV",TrueFILM1
@@ -291,7 +294,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png" group-title="KID TV",Boomerang
 #EXTVLCOPT:http-referrer=https://github.com/
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-cartoon-th.png" group-title="KID TV",Boom anime
+#EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/Boom.png" group-title="KID TV",Boom anime
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 
