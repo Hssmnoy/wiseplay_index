@@ -1,269 +1,816 @@
-  {
-   "name": "3BB GIGATV 2",
-   "info": "JAS TV ",
-   "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/banner/All-Logo-PNG/JAS%20TV_500x500.png",
-   "url":"https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/GIGATV2.w3u",
-   "stations": [
-
+{
+"name": "TH TV",
+"author": "TH TV",
+"info": "xxx",
+"image": "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
+"url": "xxx",
+"groups": [
 
 {
-"name": " CH5 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/ch5.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34"},
+"name": "THTV",
+"image": "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
+"stations": [
 
 {
-"name": " CH3 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/ch3.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008"},
-
+"name": "Ch 3",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " CH7 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",
-"imageScale": "fitStart",
+"name": "Ch 3 สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
+"url": "https://dookeela2.live/live-tv/ch3hd",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Ch 5",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
+"url": "https://dookeela2.live/live-tv/ch5hd",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Ch 5 สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "Ch 7",
+"image": "https://i.postimg.cc/8kMvzGt1/IMG-2393.png",
+"url": "https://dookeela2.live/live-tv/ch7hd",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Ch 7 สำรอง",
+"image": "https://i.postimg.cc/8kMvzGt1/IMG-2393.png",
 "url": "https://aisplay.ais.co.th/portal/live?vid=5abdd28daae73161cb8ef446",
-"online": "true",
-"drm": "clearkey", "drmkey": "4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3"},
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "Ch 8",
+"image": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
+"url": "https://dookeela2.live/live-tv/ch8",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Ch 8 สำรอง",
+"image": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5a127510d817de0fae3b6f2c",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "MCOT",
+"image": "https://i.postimg.cc/8cpTGLZf/IMG-2397.png",
+"url": "https://dookeela2.live/live-tv/mcothd",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MCOT สำรอง",
+"image": "https://i.postimg.cc/8cpTGLZf/IMG-2397.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5efec3f10f6d9dc4b26c6e77",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "NBT2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "NBT2 สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "MONO 29 (หนังพากย์ไทย)",
+"image": "https://i.postimg.cc/26dJcxGv/IMG-2741.png",
+"url": "https://dookeela2.live/live-tv/mono29",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MONO 29 (หนังบรรยายไทย)",
+"image": "https://i.postimg.cc/26dJcxGv/IMG-2741.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=685108b7f5fcd9c3170292f4",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "ไทย PBS",
+"image": "https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=6378ef895b10cf050fd01614",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "ไทย PBS สำรอง)",
+"image": "https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",
+"url": "https://dookeela2.live/live-tv/thaipbs",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "ไทยรัฐทีวี",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png",
+"url": "https://dookeela2.live/live-tv/thairathtv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "ไทยรัฐทีวี สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=60bd9c7b497960d3f9a3e222",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "อมรินทร์ทีวี",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png",
+"url": "https://dookeela2.live/live-tv/amarintv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "อมรินทร์ทีวี สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "PPTV",
+"image": "https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 
 {
-"name": " MCOT ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/mcothd.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b"},
-
+"name": "PPTV สำรอง",
+"image": "https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",
+"url": "https://dookeela2.live/live-tv/pptv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " NBT ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/nbt2.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14"},
-
+"name": "ONE 31",
+"image": "https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
+"url": "https://dookeela2.live/live-tv/one31",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " THAI PBS ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/thaipbs.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3"},
-
-{
-"name": " TNN16 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/tnn16.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6"},
-
-{
-"name": " NATION ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/nation.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2"},
-
-{
-"name": " PPTV ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/pptv.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31"},
-
-{
-"name": " AMARIN TV ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/amarin.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b"},
-
-{
-"name": " THAIRATH ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/thairathtv.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956"},
-
-{
-"name": " ONE31HD ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png",
-"imageScale": "fitStart",
+"name": "ONE 31 สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
 "url": "https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728",
-"online": "true",
-"drm": "clearkey", "drmkey": "6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e"},
-
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " MONO29 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/mono29.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
-
+"name": "GMM 25",
+"image": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
+"url": "https://dookeela2.live/live-tv/gmm25",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " GMM25 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/gmm25.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec"},
-
+"name": "GMM 25 สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5a702c48d817de6932b0db7a",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " WORKPOINT ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/wp.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47"},
-
+"name": "เวิร์คพอยท์ทีวี",
+"image": "https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=632f2696fd54ec81809f7920",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " TRUE4U ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/true4u.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25"},
-
+"name": "เวิร์คพอยท์ทีวี สำรอง",
+"image": "https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
+"url": "https://dookeela2.live/live-tv/workpointtv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " CH8 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/ch8.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807"},
-
+"name": "JKN 18",
+"image": "https://i.postimg.cc/t70L1xG0/IMG-4003.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=637b3a816d6b13ecd5676af4",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " JKN18 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/jkn18.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26"},
-
+"name": "JKN 18 สำรอง",
+"image": "https://i.postimg.cc/t70L1xG0/IMG-4003.png",
+"url": "https://dookeela2.live/live-tv/jkn18",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " T-SPORT7 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/tsport7.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba"},
-
+"name": "เนชั่นทีวี",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
+"url": "https://dookeela2.live/live-tv/nationtv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " TPTV ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/stream/3bbtv/tptv.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb"},
-
-
-
+"name": "เนชั่นทีวี สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=6378f08337d179394ce585f4",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " CARTOON NETWORK ",
-"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/cartoonnetwork.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179"},
-
+"name": "TNN 16",
+"image": "https://i.postimg.cc/Njsz7k39/IMG-1845.png",
+"url": "https://dookeela2.live/live-tv/tnn",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " CARTOONITO ",
-"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/cartoonito.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6"},
-
+"name": "TNN 16 สำรอง",
+"image": "https://i.postimg.cc/Njsz7k39/IMG-1845.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " NICKELODEON ",
-"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/Nickelodeon.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029"},
-
+"name": "News 1",
+"image": "https://i.postimg.cc/CdyT1DN4/IMG-2411.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=59a9a80baae7311c60cf2039",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " NICK JR ",
-"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/nick.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621"},
-
+"name": "Top News",
+"image": "https://i.postimg.cc/qMJ7ff5h/IMG-3145.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=605dad7dcebeb6db82829183",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " Food Network ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/foodnetwork.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde"},
-
+"name": "True 4U",
+"image": "https://i.postimg.cc/kGvp2ySq/IMG-2563.png",
+"url": "https://dookeela2.live/live-tv/true4u",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " HBO ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/hbo.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179"},
-
+"name": "ALTV 4",
+"image": "https://i.postimg.cc/c4pRMRr7/IMG-1847.png",
+"url": "https://dookeela2.live/live-tv/altv4",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " HBO Family",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/hbofamily.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6"},
-
+"name": "MVTV ท้องถิ่นไทย",
+"image": "https://i.postimg.cc/SNpVPq80/IMG-2710.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=68f6eac91b3e3ed505a5f154",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " HBO CINEMAX",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/cinemax.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029"},
-
+"name": "ลั่นทุ่งทีวี",
+"image": "https://i.postimg.cc/MGHM4rTj/IMG-2560.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5ffebc5e3c4cabc51fbcf288",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " HBO HITS",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/hbohits.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621"},
-
+"name": "ทีวีรัฐสภา",
+"image": "https://i.postimg.cc/NMYy8Cd3/IMG-1851.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=597be02d7ed5a24e46f67254",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 {
-"name": " HBO SIG",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/104.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/hbosignature.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde"},
-
+"name": "TSports 7",
+"image": "https://i.postimg.cc/vBd6X2MR/IMG-4474.png",
+"url": "https://dookeela2.live/live-tv/tsports7",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " Mono29Plus ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/monoplus.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c"},
-
+"name": "TrueID Sports",
+"image": "https://i.postimg.cc/wM56D9xH/IMG-4479.png",
+"url": "https://dookeela2.live/live-tv/trueidsports1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-"name": " ASAIN Hits ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",
-"imageScale": "fitStart",
-"url": "https://m3u-lime.vercel.app/embed/aisplay/3bbasian.html",
-"online": "true",
-"drm": "clearkey", "drmkey": "dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48"},
+"name": "TrueSports 1",
+"image": "https://i.postimg.cc/nrMggm2Y/IMG-4193.png",
+"url": "https://dookeela2.live/live-tv/tsp1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "TrueSports 2",
+"image": "https://i.postimg.cc/zXk5hCMV/IMG-4195.png",
+"url": "https://dookeela2.live/live-tv/tsp2",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "TrueSports 3",
+"image": "https://i.postimg.cc/J40K3mYQ/IMG-4196.png",
+"url": "https://dookeela2.live/live-tv/tsp3",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "TrueSports 4",
+"image": "https://i.postimg.cc/N0bC9Svn/IMG-4481.png",
+"url": "https://dookeela2.live/live-tv/tsp4",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "TrueSports 5",
+"image": "https://i.postimg.cc/9FBwJN06/IMG-4197.png",
+"url": "https://dookeela2.live/live-tv/tsp5",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "TrueSports 7",
+"image": "https://i.postimg.cc/bNTGwDwL/IMG-3229.png",
+"url": "https://dookeela2.live/live-tv/tsp7",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Tennis",
+"image": "https://i.postimg.cc/rm8Snz6D/IMG-3614.png",
+"url": "https://dookeela2.live/live-tv/truetennis",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Golf Channel Thailand",
+"image": "https://i.postimg.cc/15jYD3rs/IMG-3595.png",
+"url": "https://dookeela2.live/live-tv/golfchannel",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Bein Sports 1",
+"image": "https://i.postimg.cc/FsRkm6B3/IMG-3115.png",
+"url": "https://dookeela2.live/live-tv/bein1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Bein Sports 2",
+"image": "https://i.postimg.cc/Mp0SL6mD/IMG-3087.png",
+"url": "https://dookeela2.live/live-tv/bein2",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Bein Sports 3",
+"image": "https://i.postimg.cc/Dy9vDYk2/IMG-3090.png",
+"url": "https://dookeela2.live/live-tv/bein3",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Monomax 1",
+"image": "https://i.postimg.cc/ZRgb7nSG/IMG-3986.png",
+"url": "https://dookeela2.live/live-tv/monomax1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "DKL Sport 1",
+"image": "https://i.postimg.cc/bvBy06QW/IMG-4483.png",
+"url": "https://dookeela2.live/live-tv/dklsport1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "DKL Sport 2",
+"image": "https://i.postimg.cc/qM33NKdT/IMG-4485.png",
+"url": "https://dookeela2.live/live-tv/dklsport2",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Astro Sports Plus",
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png",
+"url": "https://dookeela2.live/live-tv/astrosportsplus",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Astro Premier League",
+"image": "https://i.postimg.cc/vmRMV7MJ/IMG-3976.png",
+"url": "https://dookeela2.live/live-tv/astropremierleague",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Astro Premier League 2",
+"image": "https://i.postimg.cc/bN34Pxsx/IMG-3980.png",
+"url": "https://dookeela2.live/live-tv/astropremierleague2",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Astro Football",
+"image": "https://i.postimg.cc/xCcH0m7s/IMG-2879.png",
+"url": "https://dookeela2.live/live-tv/astrofootball",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Astro Grandstand",
+"image": "https://i.postimg.cc/kG2hsZvf/IMG-3978.png",
+"url": "https://dookeela2.live/live-tv/astrograndstand",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Astro Badminton",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",
+"url": "https://dookeela2.live/live-tv/astrobadminton",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Eurosport",
+"image": "https://i.postimg.cc/7LDdWHQh/IMG-4501.png",
+"url": "https://dookeela2.live/live-tv/eurosport",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Eurosport 1 es",
+"image": "https://i.postimg.cc/jS28DWnB/IMG-3332.png",
+"url": "https://dookeela2.live/live-tv/eurosport1es",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Eurosport 2 es",
+"image": "https://i.postimg.cc/zBrSF33z/IMG-3333.png",
+"url": "https://dookeela2.live/live-tv/eurosport2es",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "TNT Sports 4",
+"image": "https://i.postimg.cc/v85ssM29/IMG-3093.png",
+"url": "https://dookeela2.live/live-tv/btsport4",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "L.F.C.TV",
+"image": "https://i.postimg.cc/QdjMtvY9/IMG-4089.png",
+"url": "https://dookeela2.live/live-tv/lfctv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MUTV",
+"image": "https://i.postimg.cc/MH1YqfC2/IMG-2961.png",
+"url": "https://dookeela2.live/live-tv/mutv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "NBA TV",
+"image": "https://i.postimg.cc/d14MK3D5/IMG-2486.png",
+"url": "https://dookeela2.live/live-tv/nba",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "NFL Network",
+"image": "https://i.postimg.cc/L8QYk7xP/IMG-2245.webp",
+"url": "https://dookeela2.live/live-tv/nfl",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MLB",
+"image": "https://i.postimg.cc/s2qD7bRx/IMG-2227.png",
+"url": "https://dookeela2.live/live-tv/mlb",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Boom บูมเมอแรง",
+"image": "https://i.postimg.cc/zDCqL8v7/IMG-2635.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=597dfea47ed5a24e46f67259",
+"referer": "https://aisplay.ais.co.th/portal/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": "Nick Jr.",
+"image": "https://i.postimg.cc/0NMWJyk9/IMG-3451.webp",
+"url": "https://dookeela2.live/live-tv/nickjr",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Cartoon Network",
+"image": "https://i.postimg.cc/MZr3y7sp/IMG-2974.png",
+"url": "https://dookeela2.live/live-tv/cartoon-network",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Cartoonito",
+"image": "https://i.postimg.cc/JzMTJMz4/IMG-3549.png",
+"url": "https://dookeela2.live/live-tv/cartoonito",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "DreamWorks",
+"image": "https://i.postimg.cc/xCPHdrVt/IMG-2929.png",
+"url": "https://dookeela2.live/live-tv/dreamworks",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MONO29 Music",
+"image": "https://i.postimg.cc/pd7Dch39/IMG-4488.png",
+"url": "https://dookeela2.live/live-tv/mono-29-music-station",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MONO29 Plus",
+"image": "https://i.postimg.cc/mZMkT7TS/IMG-4148.png",
+"url": "https://dookeela2.live/live-tv/mono29plus",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Thai Film",
+"image": "https://i.postimg.cc/05dWqkcm/IMG-4087.png",
+"url": "https://dookeela2.live/live-tv/truethaifilm",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Film 1",
+"image": "https://i.postimg.cc/c4B94rnR/IMG-4175.png",
+"url": "https://dookeela2.live/live-tv/truefilm1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Movie Hits",
+"image": "https://i.postimg.cc/J4X8T3Sm/IMG-4177.png",
+"url": "https://dookeela2.live/live-tv/truemoviehits",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Series",
+"image": "https://i.postimg.cc/tRPccFhM/IMG-4198.png",
+"url": "https://dookeela2.live/live-tv/trueseries",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Film Asia",
+"image": "https://i.postimg.cc/85W0QXCZ/IMG-3981.webp",
+"url": "https://dookeela2.live/live-tv/truefilmasia",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Asian More",
+"image": "https://i.postimg.cc/dQmt3Xjq/IMG-4243.png",
+"url": "https://dookeela2.live/live-tv/trueasianmore",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Asian hits",
+"image": "https://i.postimg.cc/15B4P8cy/IMG-3631.png",
+"url": "https://dookeela2.live/live-tv/3bbasian",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "HBO",
+"image": "https://i.postimg.cc/T3rk10H4/IMG-4188.png",
+"url": "https://dookeela2.live/live-tv/hbo",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "HBO Hits",
+"image": "https://i.postimg.cc/RFGyFdqV/IMG-4186.png",
+"url": "https://dookeela2.live/live-tv/hbo-hits",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "HBO Signature",
+"image": "https://i.postimg.cc/x85f9LV3/IMG-4185.png",
+"url": "https://dookeela2.live/live-tv/hbo-signature",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "HBO Family",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png",
+"url": "https://dookeela2.live/live-tv/hbo-family",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "CINEMAX",
+"image": "https://i.postimg.cc/xqV1s6RK/IMG-4182.png",
+"url": "https://dookeela2.live/live-tv/cinemax",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Warner TV",
+"image": "https://i.postimg.cc/YqvYk5Qp/IMG-3305.png",
+"url": "https://dookeela2.live/live-tv/warnertv",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "AXN",
+"image": "https://i.postimg.cc/cJBBcmBj/IMG-2357.png",
+"url": "https://dookeela2.live/live-tv/axn",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "ROCK Action",
+"image": "https://i.postimg.cc/ZKs9Kpcy/IMG-3038.png",
+"url": "https://dookeela2.live/live-tv/rock-action",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "ROCK Entertainment",
+"image": "https://i.postimg.cc/ncS2GKGL/IMG-3304.png",
+"url": "https://dookeela2.live/live-tv/rock-entertainment",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Asian Food Network",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+"url": "https://dookeela2.live/live-tv/afn",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Discovery",
+"image": "https://i.postimg.cc/NfSLw2KS/IMG-2162.png",
+"url": "https://dookeela2.live/live-tv/discovery",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Discovery Asia",
+"image": "https://i.postimg.cc/nzFV9nSj/IMG-2902.webp",
+"url": "https://dookeela2.live/live-tv/discovery-asia",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "History",
+"image": "https://i.postimg.cc/K8QDfbMP/IMG-2449.png",
+"url": "https://dookeela2.live/live-tv/history",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Thainess",
+"image": "https://i.postimg.cc/V6KwDL8G/IMG-4146.png",
+"url": "https://dookeela2.live/live-tv/thainess",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Explore Life",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url": "https://dookeela2.live/live-tv/trueexplorelife",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Explore Sci",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
+"url": "https://dookeela2.live/live-tv/trueexploresci",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Explore Wild",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
+"url": "https://dookeela2.live/live-tv/trueexplorewild",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Love Nature",
+"image": "https://i.postimg.cc/J4GqNGr8/IMG-2532.png",
+"url": "https://dookeela2.live/live-tv/lovenature4k",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Animal Planet",
+"image": "https://i.postimg.cc/MTBsd4xz/IMG-2455.png",
+"url": "https://dookeela2.live/live-tv/animal-planet",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Animal Show",
+"image": "https://i.postimg.cc/G2XJYybL/IMG-4172.png",
+"url": "https://dookeela2.live/live-tv/animalshow",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://i.postimg.cc/Qtzh6fCH/IMG-3640.png",
+"url": "https://dookeela2.live/live-tv/samrujlok",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Rush Stories",
+"image": "https://i.postimg.cc/mgr74gBv/IMG-3622.png",
+"url": "https://dookeela2.live/live-tv/rush-stories",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Alure Channel",
+"image": "https://i.postimg.cc/Twj2BBpv/IMG-4490.png",
+"url": "https://dookeela2.live/live-tv/alure-channel",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+}
+]
+},
+
+]
+}
 
 
-   ]
-  }
+
+
+
+
+
+
+
+
