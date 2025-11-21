@@ -161,35 +161,40 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0114/DASH/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="MOVIE TV", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0116/DASH/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="MOVIE TV", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0117/DASH/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="MOVIE TV", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0115/DASH/V0115.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="MOVIE TV", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0118/DASH/V0118.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="MOVIE TV",Rock-Entertainment
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
