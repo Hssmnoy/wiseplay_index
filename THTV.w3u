@@ -1,9 +1,9 @@
 {
-"name": "TH TV",
+"name":   "TH TV",
 "author": "TH TV",
-"info": "หรรมน้อย IPTV",
-"image": "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
-"url": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/THTV.w3u",
+"info":   "หรรมน้อย IPTV",
+"image":  "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
+"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/THTV.w3u",
 "groups": [
 
 {
@@ -19,6 +19,14 @@
 "url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/AISPlay.w3u",
 "info":   "AIS PLAY",
 "import": false},
+
+{
+"name":   "DKL2025",
+"image":  "https://img2.pic.in.th/pic/images2babec4f7d6d8228.jpg",   
+"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/DKL2025.w3u",
+"info":   "Dookeela",
+"import": false},
+
 
 ]
 }
