@@ -1,10 +1,24 @@
 {
 "name": "TH TV",
 "author": "TH TV",
-"info": "xxx",
+"info": "หรรมน้อย IPTV",
 "image": "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
-"url": "xxx",
+"url": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/THTV.w3u",
 "groups": [
+
+{
+"name":   "GIGA TV",
+"image":  "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/banner/All-Logo-PNG/JAS%20TV_500x500.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/GIGATV.w3u",
+"info":   "GIGA TV",
+"import": false},
+
+{
+"name":   "AIS PLAY",
+"image":  "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/AISPlay.w3u",
+"info":   "AIS PLAY",
+"import": false},
 
 {
 "name": "THTV",
