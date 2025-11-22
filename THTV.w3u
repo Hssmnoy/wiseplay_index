@@ -35,31 +35,31 @@
 "import": false},
 
 {
-"name":   "Sport",
-"image":  "https://nongakka.github.io/iptv/m3u8/icon/sport.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/sport.m3u",
-"info":   "Warpdooball",
-"import": false},
-
-{
 "name":   "Mono MAX",
 "image":  "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",   
 "url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/mono.m3u",
-"info":   "Warpdooball",
+"info":   "Mono MAX",
 "import": false},
 
 {
 "name":   "True Sport",
 "image":  "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",   
 "url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/truesport.m3u",
-"info":   "Warpdooball",
+"info":   "True Sport",
 "import": false},
 
 {
 "name":   "AIS Sport",
 "image":  "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",   
 "url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/aissport.m3u",
-"info":   "Warpdooball",
+"info":   "AIS Sport",
+"import": false},
+
+{
+"name":   "Sport Inter",
+"image":  "https://nongakka.github.io/iptv/m3u8/icon/sport.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/intersport.m3u",
+"info":   "Sport Inter",
 "import": false},
 
 
