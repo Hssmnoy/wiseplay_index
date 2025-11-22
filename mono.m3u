@@ -1,4 +1,4 @@
-#EXTM3U https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/mono.m3u
+#EXTM3U url=https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/mono.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax1.png" group-title="ช่อง MONOMAX",MONOMAX1
