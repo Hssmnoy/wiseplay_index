@@ -1,0 +1,178 @@
+{
+"name": "TRUE IDTV",
+"author": "TrueID",
+"image": "https://cms.dmpcdn.com/misc/2022/11/07/b35f6c00-5e60-11ed-b947-592ef90d789e_webp_original.png",
+"url":"https://pastebin.com/raw/f08XS1kK",
+"stations": [
+{
+"name": "",
+"info": "NBT 2 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url" : "https://tv.trueid.net/th-th/live/nbt",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "TPBS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url" : "https://tv.trueid.net/th-th/live/thaipbs",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "ALTV4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
+"url" : "https://tv.trueid.net/th-th/live/altv",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "CH5 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
+"url" : "https://tv.trueid.net/th-th/live/ch5",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "T-Sports7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
+"url" : "https://tv.trueid.net/th-th/live/t-sports-7-sd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "Parliament",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png",
+"url" : "https://tv.trueid.net/th-th/live/tptv",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "TNN16",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+"url" : "https://tv.trueid.net/th-th/live/tnn16",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "JKN 18",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
+"url" : "https://tv.trueid.net/th-th/live/jkn18",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "Nation TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+"url" : "https://tv.trueid.net/th-th/live/nationtv",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "Workpoint TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url" : "https://tv.trueid.net/th-th/live/workpointtv",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "True4U",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url" : "https://tv.trueid.net/th-th/live/true4u",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "GMM25",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url" : "https://tv.trueid.net/th-th/live/gmm25",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "CH 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url" : "https://tv.trueid.net/th-th/live/ch8",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "MONO29",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+"url" : "https://tv.trueid.net/th-th/live/mono29",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "MCOT HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+"url" : "https://tv.trueid.net/th-th/live/9mcot-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "ONE 31 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+"url" : "https://tv.trueid.net/th-th/live/one-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "Thairath TV HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+"url" : "https://tv.trueid.net/th-th/live/thairathtv-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "3 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+"url" : "https://tv.trueid.net/th-th/live/ch3-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "AmarinTV HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+"url" : "https://tv.trueid.net/th-th/live/amarintv-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "CH 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url" : "https://tv.trueid.net/th-th/live/ch7-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+{
+"name": "",
+"info": "PPTV HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url" : "https://tv.trueid.net/th-th/live/pptv-hd",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
+},
+
+
+]
+}
