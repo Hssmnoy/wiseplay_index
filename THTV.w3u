@@ -1,64 +1,64 @@
 {
-"name":   "TH TV",
-"author": "TH TV",
+"name":   "หรรมน้อย ออนไลน์",
+"author": "หรรมน้อย IPTV",
 "info":   "หรรมน้อย IPTV",
 "image":  "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/THTV.w3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/THTV.w3u",
 "groups": [
 
 {
 "name":   "3BB GIGA TV",
 "image":  "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/banner/All-Logo-PNG/JAS%20TV_500x500.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/GIGATV.w3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/GIGATV.w3u",
 "info":   "3BB GIGA TV",
 "import": false},
 
 {
 "name":   "AIS PLAY",
-"image":  "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/AISPlay.w3u",
+"image":  "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/ais.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/AISPlay.w3u",
 "info":   "AIS PLAY",
 "import": false},
 
 {
 "name":   "DKL2025",
 "image":  "https://img2.pic.in.th/pic/images2babec4f7d6d8228.jpg",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/DKL2025.w3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/DKL2025.w3u",
 "info":   "Dookeela",
 "import": false},
 
 {
 "name":   "Warpdooball",
 "image":  "https://nongakka.github.io/iptv/m3u8/icon/logo-warp10-01-768x203.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/warpdooballnet.m3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/warpdooballnet.m3u",
 "info":   "Warpdooball",
 "import": false},
 
 {
 "name":   "Mono MAX",
 "image":  "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/mono.m3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/mono.m3u",
 "info":   "Mono MAX",
 "import": false},
 
 {
 "name":   "True Sport",
 "image":  "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/truesport.m3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/truesport.m3u",
 "info":   "True Sport",
 "import": false},
 
 {
 "name":   "AIS Sport",
 "image":  "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/aissport.m3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/aissport.m3u",
 "info":   "AIS Sport",
 "import": false},
 
 {
 "name":   "Sport Inter",
 "image":  "https://nongakka.github.io/iptv/m3u8/icon/sport.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/intersport.m3u",
+"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/intersport.m3u",
 "info":   "Sport Inter",
 "import": false},
 
