@@ -24,14 +24,23 @@
         },
         {
           "name": "รายการแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/sport1.png",
+          "info": "Dookeela",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 10 ม.ค. 2569 13_39_58.png.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/dookeela4.json",
           "import":"false"        
         },
         {
           "name": "รายการแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/sport2.png",
+          "info": "Sportonline.ac",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 10 ม.ค. 2569 13_39_58.png.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist/sportsonline.json",
+          "import":"false"          
+        },
+        {
+          "name": "รายการแข่งกีฬา",
+          "info": "Doballkub",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 10 ม.ค. 2569 13_39_58.png.png",
+          "url": "https://raw.githubusercontent.com/nongakka/TV/main/Doballkub.json",
           "import":"false"          
         },
         {
