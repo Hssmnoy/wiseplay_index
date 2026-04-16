@@ -37,12 +37,13 @@
         {
           "name": "Dooball66",
           "image": "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "imageScale": "fitStart",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist_wiseplay.json",
           "import":"false"         
         },
         {
           "name": "AIS Sport",
-          "image": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ais2.jpg",
           "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/AIS Play Sports.w3u",
           "import":"false"         
         }
@@ -56,6 +57,7 @@
         {
           "name": "037hdd",
           "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
+          "imageScale": "fitStart",
           "url": "https://raw.githubusercontent.com/nongakka/037hd/main/data/wiseplay/index.json",
           "import":"false"          
         }
