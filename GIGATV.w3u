@@ -10,17 +10,13 @@
 "name": " CH5 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png",
 "imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34"},
+"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
 
 {
 "name": " CH3 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",
 "imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008"},
+"url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8",
 
 {
 "name": " CH7 ",
@@ -42,17 +38,13 @@
 "name": " NBT ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png",
 "imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14"},
+"url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
 
 {
 "name": " THAI PBS ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png",
 "imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3"},
+"url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 
 {
 "name": " TNN16 ",
