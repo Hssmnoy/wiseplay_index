@@ -2,9 +2,23 @@
 "name":   "หรรมน้อย ออนไลน์",
 "author": "หรรมน้อย IPTV",
 "info":   "หรรมน้อย IPTV",
-"image":  "https://i.postimg.cc/fLFgXX9S/IMG-4470.png",
+"image":  "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 23 ก.พ. 2569 10_56_55.png",
 "url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/THTV.w3u",
 "groups": [
+
+  {
+      "name": "ดูทีวีออนไลน์",
+      "author": "หรรมน้อย IPTV",
+      "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_23_49.png",
+      "stations": [
+
+
+{
+"name":   "AIS PLAY",
+"image":  "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/ais.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/TV/main/ais_playlist.json",
+"info":   "AIS PLAY",
+"import": false},
 
 {
 "name":   "3BB GIGA TV",
@@ -14,38 +28,24 @@
 "import": false},
 
 {
-"name":   "AIS PLAY",
-"image":  "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/ais.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/AISPlay.w3u",
-"info":   "AIS PLAY",
-"import": false},
-
-{
-"name":   "DKL2025",
-"image":  "https://img2.pic.in.th/pic/images2babec4f7d6d8228.jpg",   
-"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/DKL2025.w3u",
+"name":   "รายการแข่งกีฬา",
+"image":  "https://raw.githubusercontent.com/nongakka/logo/main/sport1.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/TV/main/dookeela4.json",
 "info":   "Dookeela",
 "import": false},
 
 {
-"name":   "Warpdooball",
-"image":  "https://nongakka.github.io/iptv/m3u8/icon/logo-warp10-01-768x203.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/warpdooballnet.m3u",
-"info":   "Warpdooball",
+"name":   "รายการแข่งกีฬา",
+"image":  "https://raw.githubusercontent.com/nongakka/logo/main/sport2.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/TV/main/playlist/sportsonline.json",
+"info":   "sportsonline.vc",
 "import": false},
 
 {
-"name":   "Mono MAX",
-"image":  "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/mono.m3u",
-"info":   "Mono MAX",
-"import": false},
-
-{
-"name":   "True Sport",
-"image":  "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",   
-"url":    "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/truesport.m3u",
-"info":   "True Sport",
+"name":   "Dooball66",
+"image":  "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",   
+"url":    "https://raw.githubusercontent.com/nongakka/TV/main/playlist_wiseplay.json",
+"info":   "Dooball66",
 "import": false},
 
 {
@@ -63,9 +63,18 @@
 "import": false},
 
 
-]
-}
+{
+      "name": "ดูทีวีออนไลน์",
+      "author": "หรรมน้อย IPTV",
+      "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_23_49.png",
+      "stations": [
 
+
+}
+      ]
+    }
+  ]
+}
 
 
 
