@@ -65,41 +65,41 @@
           "url": "https://raw.githubusercontent.com/nongakka/037hd/main/data/wiseplay/index.json",
           "info": "www.037hddmovie.com",
           "import": false
-          
-  {
+        }
+      ]
+    },
+    {
       "name": "ดูซีรีย์ออนไลน์",
       "author": "หรรมน้อย IPTV",
       "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_36_16.png",
-      "stations": [  
+      "stations": [
         {
           "name": "Flixmono",
           "image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
           "url": "https://raw.githubusercontent.com/nongakka/flixmono/main/data/wiseplay/index.json",
           "info": "https://flixmono.com",
           "import": false
-          
+        },
         {
           "name": "Goseries4k",
           "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
           "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/index.json",
           "info": "https://goseries4k.com",
           "import": false
-         }
-        ]
-      },
+        }
+      ]
+    },
     {
       "name": "ดูอนิเมะออนไลน์",
       "author": "หรรมน้อย IPTV",
       "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_44_26.png",
-      "stations": [  
+      "stations": [
         {
           "name": "Anime-hdzero",
           "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 14 เม.ย. 2569 09_46_35.png",
           "url": "https://raw.githubusercontent.com/nongakka/hdzero/main/data/index.json",
           "info": "https://anime-hdzero.com",
           "import": false
-
-
         }
       ]
     }
