@@ -17,7 +17,7 @@
 "name": " CH3 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",
 "imageScale": "fitStart",
-"url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8"
+"url": "https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8"
 },
 {
 "name": " CH7 ",
@@ -67,9 +67,8 @@
 "name": " PPTV ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png",
 "imageScale": "fitStart",
-"url": "https://cnt2-streamer2.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31"},
+"url": "https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8"
+},
 
 {
 "name": " AMARIN TV ",
@@ -91,9 +90,8 @@
 "name": " ONE31HD ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png",
 "imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e"},
+"url": "https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8",
+},
 
 {
 "name": " MONO29 ",
