@@ -10,14 +10,14 @@
 "name": " CH5 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png",
 "imageScale": "fitStart",
-"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
 },
 
 {
 "name": " CH3 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",
 "imageScale": "fitStart",
-"url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8",
+"url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8"
 },
 {
 "name": " CH7 ",
@@ -39,13 +39,13 @@
 "name": " NBT ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png",
 "imageScale": "fitStart",
-"url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+"url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
 },
 {
 "name": " THAI PBS ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png",
 "imageScale": "fitStart",
-"url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 {
 "name": " TNN16 ",
