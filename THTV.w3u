@@ -9,7 +9,7 @@
       "name": "ดูทีวีออนไลน์",
       "author": "หรรมน้อย IPTV",
       "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_23_49.png",
-      "stations": [
+      "groups": [
         {
           "name": "AIS PLAY",
           "image": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/ais.png",
@@ -52,7 +52,7 @@
       "name": "ดูหนังออนไลน์",
       "author": "หรรมน้อย IPTV",
       "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_29_19.png",
-      "stations": [
+      "groups": [
         {
           "name": "037hdd",
           "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
@@ -65,7 +65,7 @@
       "name": "ดูซีรีย์ออนไลน์",
       "author": "หรรมน้อย IPTV",
       "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_36_16.png",
-      "stations": [
+      "groups": [
         {
           "name": "Flixmono",
           "image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
@@ -84,7 +84,7 @@
       "name": "ดูอนิเมะออนไลน์",
       "author": "หรรมน้อย IPTV",
       "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_44_26.png",
-      "stations": [
+      "groups": [
         {
           "name": "Anime-hdzero",
           "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 14 เม.ย. 2569 09_46_35.png",
