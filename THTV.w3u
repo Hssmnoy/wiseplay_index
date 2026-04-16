@@ -14,37 +14,37 @@
           "name": "AIS PLAY",
           "image": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/ais.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/ais_playlist.json",
-                    
+          "import":"false"          
         },
         {
           "name": "3BB GIGA TV",
           "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/banner/All-Logo-PNG/JAS%20TV_500x500.png",
           "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/GIGATV.w3u",
-                   
+         "import":"false"          
         },
         {
           "name": "รายการแข่งกีฬา",
           "image": "https://raw.githubusercontent.com/nongakka/logo/main/sport1.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/dookeela4.json",
-                    
+          "import":"false"        
         },
         {
           "name": "รายการแข่งกีฬา",
           "image": "https://raw.githubusercontent.com/nongakka/logo/main/sport2.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist/sportsonline.json",
-                   
+          "import":"false"          
         },
         {
           "name": "Dooball66",
           "image": "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist_wiseplay.json",
-                   
+          "import":"false"         
         },
         {
           "name": "AIS Sport",
           "image": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",
           "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/AIS Play Sports.w3u",
-                   
+          "import":"false"         
         }
       ]
     },
@@ -57,7 +57,7 @@
           "name": "037hdd",
           "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
           "url": "https://raw.githubusercontent.com/nongakka/037hd/main/data/wiseplay/index.json",
-                    
+          "import":"false"          
         }
       ]
     },
@@ -70,13 +70,13 @@
           "name": "Flixmono",
           "image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
           "url": "https://raw.githubusercontent.com/nongakka/flixmono/main/data/wiseplay/index.json",
-                   
+          "import":"false"         
         },
         {
           "name": "Goseries4k",
           "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
           "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/index.json",
-                   
+          "import":"false"         
         }
       ]
     },
@@ -89,7 +89,7 @@
           "name": "Anime-hdzero",
           "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 14 เม.ย. 2569 09_46_35.png",
           "url": "https://raw.githubusercontent.com/nongakka/hdzero/main/data/index.json",
-                   
+          "import":"false"         
         }
       ]
     }
