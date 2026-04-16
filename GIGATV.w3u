@@ -17,7 +17,9 @@
 "name": " CH3 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",
 "imageScale": "fitStart",
-"url": "https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8"
+"url": "https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
 
 {
@@ -41,6 +43,7 @@
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png",
 "imageScale": "fitStart",
 "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+
 },
 
 {
@@ -70,7 +73,10 @@
 "name": " PPTV ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png",
 "imageScale": "fitStart",
-"url": "https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8"
+"url": "https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+
 },
 
 {
@@ -93,7 +99,9 @@
 "name": " ONE31HD ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png",
 "imageScale": "fitStart",
-"url": "https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8"
+"url": "https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
 
 {
