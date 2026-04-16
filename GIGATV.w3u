@@ -116,9 +116,10 @@
 "name": " GMM25 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",
 "imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec"},
+"url": "https://cdn1.googlecdnforstreaming.live/live/gmm25/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 
 {
 "name": " WORKPOINT ",
