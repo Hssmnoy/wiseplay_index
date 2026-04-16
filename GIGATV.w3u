@@ -19,6 +19,7 @@
 "imageScale": "fitStart",
 "url": "https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8"
 },
+
 {
 "name": " CH7 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",
@@ -41,12 +42,14 @@
 "imageScale": "fitStart",
 "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
 },
+
 {
 "name": " THAI PBS ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png",
 "imageScale": "fitStart",
 "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
+
 {
 "name": " TNN16 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png",
@@ -90,7 +93,7 @@
 "name": " ONE31HD ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png",
 "imageScale": "fitStart",
-"url": "https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8",
+"url": "https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8"
 },
 
 {
@@ -134,14 +137,6 @@
 "drm": "clearkey", "drmkey": "4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807"},
 
 {
-"name": " JKN18 ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26"},
-
-{
 "name": " T-SPORT7 ",
 "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png",
 "imageScale": "fitStart",
@@ -156,62 +151,6 @@
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd",
 "online": "true",
 "drm": "clearkey", "drmkey": "5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb"},
-
-{
-"name": " HBOTH",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179"},
-
-{
-"name": " HBO Family",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6"},
-
-{
-"name": " HBO CINEMAX",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029"},
-
-{
-"name": " HBO HITS",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621"},
-
-{
-"name": " HBO SIG",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/104.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde"},
-
-{
-"name": " Mono29Plus ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c"},
-
-{
-"name": " ASAIN Hits ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48"},
 
 
    ]
