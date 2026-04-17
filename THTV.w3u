@@ -92,6 +92,12 @@
           "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
           "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/index.json",
           "import":"false"         
+        },
+        {
+          "name": "หนังสั้นจีน",
+          "image": "https://www.หนังสั้น.online/assets/images/icon_shortflim.webp",
+          "url": "https://raw.githubusercontent.com/nongakka/shortmovie/main/m3u/all.m3u",
+          "import":"false"         
         }
       ]
     },
