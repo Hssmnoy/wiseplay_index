@@ -12,13 +12,13 @@
       "groups": [
         {
           "name": "AIS PLAY",
-          "image": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/ais.png",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_35_25.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/ais_playlist.json",
           "import":"false"          
         },
         {
-          "name": "3BB GIGA TV",
-          "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/banner/All-Logo-PNG/JAS%20TV_500x500.png",
+          "name": "TV online",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_36_52.png",
           "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/GIGATV.w3u",
          "import":"false"          
        },
