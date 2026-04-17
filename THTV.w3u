@@ -1,8 +1,8 @@
 {
   "name": "หรรมน้อย ออนไลน์",
   "author": "หรรมน้อย IPTV",
-  "info": "หรรมน้อย IPTV",
   "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 23 ก.พ. 2569 10_56_55.png",
+  "imageScale": "fitStart",
   "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/THTV.w3u",
   "groups": [
     {
