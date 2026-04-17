@@ -56,7 +56,7 @@
         },
         {
           "name": "AIS Sport",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ais2.jpg",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/images.jpg",
           "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/AIS Play Sports.w3u",
           "import":"false"         
         }
