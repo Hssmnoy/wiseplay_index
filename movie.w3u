@@ -1,0 +1,610 @@
+{ 
+"name":"บันเทิง ออนไลน์ ", 
+"author":"หรรมน้อย ออนไลน์", 
+"image":"https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT%20Image%2017%20เม.ย.%202569%2012_27_34.png",   
+"stations": 
+
+[
+
+{
+"name":"HBO",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-hbo_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"HBO",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+"url":"https://dookeela4.live/live-tv/hbo",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+ 	
+{
+"name":"HBO Hits",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+                 
+{
+"name":"HBO Hits",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+"url":"https://dookeela4.live/live-tv/hbo-hits",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{     
+"name":"HBO Signature",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{     
+"name":"HBO Signature",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
+"url":"https://dookeela4.live/live-tv/hbo-signature",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"HBO Family",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"HBO Family",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
+"url":"https://dookeela4.live/live-tv/hbo-family",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Cinemax",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Cinemax",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+"url":"https://dookeela4.live/live-tv/cinemax",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"RockAction",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"RockAction",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+"url":"https://dookeela4.live/live-tv/rock-action",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"RockEnterainment",
+"image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/th-blueant_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+  
+{
+"name":"RockEnterainment",
+"image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
+"url":"https://dookeela4.live/live-tv/rock-entertainment",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Axn",
+"image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
+"url":"https://love.pifipa2974.workers.dev/lx-origin/hd-axnbkp_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+ 
+{
+"name":"Axn",
+"image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
+"url":"https://dookeela4.live/live-tv/axn",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Warnertv",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Warnertv",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url":"https://dookeela4.live/live-tv/warnertv",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+ 
+{
+"name":"trueTHAIFILM",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueTHAIFILM",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://dookeela4.live/live-tv/truethaifilm",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueFILM1",  
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
+"url":"https://love.sayob28681.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueFILM1",  
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
+"url":"https://dookeela4.live/live-tv/truefilm1",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueFILM2",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://dookeela4.live/live-tv/truefilm2",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueMOVIEHITS",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueMOVIEHITS",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://dookeela4.live/live-tv/truemoviehits",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueFILMASIA",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueFILMASIA",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://dookeela4.live/live-tv/truefilmasia",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueSeries",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-series_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"trueSeries",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://dookeela4.live/live-tv/trueseries",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+ 
+{ 
+"name":"trueASIANMORE",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
+"url":"https://love.pifipa2974.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{ 
+"name":"trueASIANMORE",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
+"url":"https://dookeela4.live/live-tv/trueasianmore",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"CCM",
+"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-celestial_480/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"CCM",
+"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
+"url":"https://dookeela4.live/live-tv/ccm",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"AsianHits",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
+"url":"https://dookeela4.live/live-tv/3bbasian",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"TVBThai",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",
+"url":"https://dookeela4.live/live-tv/tvbclassichd",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Dragon",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",
+"url":"https://dookeela4.live/live-tv/mangorn",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Universal",  
+"image":"https://i.ibb.co/MxZHkhvV/logo-universal.png",  
+"url":"http://49.0.64.96:8007/H-Channel",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies1",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/Cartoonumi",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies2",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/IZAA",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies3",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/SERIES",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies4",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/PING",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Discovery",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
+"url":"https://dookeela4.live/live-tv/discovery",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Discovery",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+				
+{
+"name":"DiscoveryAsia",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
+"url":"https://dookeela4.live/live-tv/discovery-asia",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+                  				
+{
+"name":"History",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
+"url":"https://dookeela4.live/live-tv/history",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+                                                                        								                                                							                                 
+{
+"name":"Animal Planet",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",
+"url":"https://dookeela4.live/live-tv/animal-planet",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueEXPLOREWILD",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
+"url":"https://dookeela4.live/live-tv/trueexplorewild",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"trueEXPLOREWILD",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-expwild_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+                          				  						                         								
+{
+"name":"trueEXPLORELIFE",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url":"https://dookeela4.live/live-tv/trueexplorelife",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"trueEXPLORELIFE",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueEXPLORESCI",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
+"url":"https://dookeela4.live/live-tv/trueexploresci",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"trueEXPLORESCI",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+						 
+{
+"name":"BBCearth",
+"image":"https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
+"url":"https://dookeela4.live/live-tv/bbc-earth",
+"referer":"https://dookeela.live/live-tv/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+				
+{
+"name":"Lovenature",
+"image":"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
+"url":"https://dookeela4.live/live-tv/lovenature4k",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"TLC",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-tlc_720/chunks.m3u8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"afn",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"foodnetwork",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
+"url":"https://dookeela4.live/live-tv/foodnetwork",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueX-ZYTE",
+"image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+"url":"https://dookeela4.live/live-tv/truex-zyte",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueX-ZYTE",
+"image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"SamRujLok",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
+"url":"https://dookeela4.live/live-tv/samrujlok",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"SamRujLok",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
+"url":"https://love.pifipa2974.workers.dev/lx-origin/streamx-samrujlok_480/chunks.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"AnimalShow",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
+"url":"https://dookeela4.live/live-tv/animalshow",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"AMAZING",
+"image":"https://i.ibb.co/zv40P0s/logo-amazing.png",
+"url":"http://49.0.64.96:8007/AMAZING",
+"referer":"https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Animal",
+"image":"https://i.ibb.co/bMtB5NKS/logo-animal.png",
+"url":"http://49.0.64.96:8007/Animal",
+"referer":"https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Science",
+"image":"https://i.ibb.co/gQLyLmK/logo-seience.png",
+"url":"http://49.0.64.96:8007/WSCI",
+"referer":"https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Boom",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",
+"url":"https://dookeela4.live/live-tv/boomerang",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Cartoon Network",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",
+"url":"https://dookeela4.live/live-tv/cartoon-network",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Nick Jr.",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",
+"url":"https://dookeela4.live/live-tv/nickjr",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Nickelodeon",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",
+"url":"https://dookeela4.live/live-tv/nickelodeon",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"cartoonito",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
+"url":"https://dookeela4.live/live-tv/cartoonito",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"
+}
+
+				                                
+                                
+]
+}
