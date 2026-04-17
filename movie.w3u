@@ -390,23 +390,7 @@
 "url":"https://dookeela4.live/live-tv/discovery-asia",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
-"playInNatPlayer":"true"},
-                  				
-{
-"name":"History",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://dookeela4.live/live-tv/history",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
-                                                                        								                                                							                                 
-{
-"name":"Animal Planet",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",
-"url":"https://dookeela4.live/live-tv/animal-planet",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"playInNatPlayer":"true"},                  				
 
 {
 "name":"trueEXPLOREWILD",
