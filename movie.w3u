@@ -313,22 +313,6 @@
 },
 
 {
-"name":"TVBThai",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",
-"url":"https://dookeela4.live/live-tv/tvbclassichd",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{
-"name":"Dragon",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",
-"url":"https://dookeela4.live/live-tv/mangorn",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{
 "name":"Universal",  
 "image":"https://i.ibb.co/MxZHkhvV/logo-universal.png",  
 "url":"http://49.0.64.96:8007/H-Channel",
@@ -337,33 +321,31 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"Movies1",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://49.0.64.96:8007/Cartoonumi",
-"referer": "https://49.0.64.96:8007",
+"name":"Series",
+"image":"https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",
+"url":"http://49.0.64.96:8007/SERIES",
 "info":"Server 49.0.64.96:8007",
 "playInNatPlayer":"true"},
+
+{
+"name":"TOON",
+"image":"https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",
+"url":"http://49.0.64.96:8007/Cartoonumi",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movie",
+"image":"https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
+"url":"http://49.0.64.96:8007/PING",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
 
 {
 "name":"Movies2",  
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
 "url":"http://49.0.64.96:8007/IZAA",
-"referer": "https://49.0.64.96:8007",
-"info":"Server 49.0.64.96:8007",
-"playInNatPlayer":"true"},
-
-{
-"name":"Movies3",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://49.0.64.96:8007/SERIES",
-"referer": "https://49.0.64.96:8007",
-"info":"Server 49.0.64.96:8007",
-"playInNatPlayer":"true"},
-
-{
-"name":"Movies4",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://49.0.64.96:8007/PING",
 "referer": "https://49.0.64.96:8007",
 "info":"Server 49.0.64.96:8007",
 "playInNatPlayer":"true"},
