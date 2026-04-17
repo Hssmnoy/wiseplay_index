@@ -37,19 +37,19 @@
     "groups": [
         {
           "name": "โปรแกรมแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 10 ม.ค. 2569 13_39_58.png",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_45_21.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/dookeela4.json",
           "import":"false"        
         },
         {
           "name": "โปรแกรมแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 10 ม.ค. 2569 13_39_58.png",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_45_21.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist/sportsonline.json",
           "import":"false"          
         },
         {
           "name": "โปรแกรมแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 10 ม.ค. 2569 13_39_58.png",
+          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_45_21.png",
           "url": "https://raw.githubusercontent.com/nongakka/TV/main/Doballkub.json",
           "import":"false"          
         },
