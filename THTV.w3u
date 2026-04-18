@@ -1,31 +1,31 @@
 {
   "name": "หรรมน้อย ออนไลน์",
   "author": "หรรมน้อย IPTV",
-  "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 23 ก.พ. 2569 10_56_55.png",
+  "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 23 ก.พ. 2569 10_56_55.png",
   "imageScale": "fitStart",
-  "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/THTV.w3u",
+  "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/THTV.w3u",
   "groups": [
     {
       "name": "ดูทีวีออนไลน์",
       "author": "หรรมน้อย IPTV",
-      "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_23_49.png",
+      "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 16 เม.ย. 2569 09_23_49.png",
       "groups": [
         {
           "name": "AIS PLAY",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_35_25.png",
-          "url": "https://raw.githubusercontent.com/nongakka/TV/main/ais_playlist.json",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_35_25.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/ais_playlist.json",
           "import":"false"          
         },
         {
           "name": "TV online",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_36_52.png",
-          "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/GIGATV.w3u",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_36_52.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/GIGATV.w3u",
          "import":"false"          
        },
        {
           "name": "ช่องบันเทิง",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT%20Image%2017%20เม.ย.%202569%2012_27_34.png",
-          "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/movie.w3u",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT%20Image%2017%20เม.ย.%202569%2012_27_34.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/movie.w3u",
          "import":"false"          
        }
       ]
@@ -33,37 +33,37 @@
   {
     "name": "ดูกีฬาออนไลน์",
     "author": "หรรมน้อย IPTV",
-    "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 10_21_56.png",
+    "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 10_21_56.png",
     "groups": [
         {
           "name": "โปรแกรมแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
-          "url": "https://raw.githubusercontent.com/nongakka/TV/main/dookeela4.json",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/dookeela4.json",
           "import":"false"        
         },
         {
           "name": "โปรแกรมแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
-          "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist/sportsonline.json",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/playlist/sportsonline.json",
           "import":"false"          
         },
         {
           "name": "โปรแกรมแข่งกีฬา",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
-          "url": "https://raw.githubusercontent.com/nongakka/TV/main/Doballkub.json",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/Doballkub.json",
           "import":"false"          
         },
         {
           "name": "Dooball66",
           "image": "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
           "imageScale": "fitStart",
-          "url": "https://raw.githubusercontent.com/nongakka/TV/main/playlist_wiseplay.json",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/playlist_wiseplay.json",
           "import":"false"         
         },
         {
           "name": "AIS Sport",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/images.jpg",
-          "url": "https://raw.githubusercontent.com/nongakka/wiseplay_index/main/AIS Play Sports.w3u",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/images.jpg",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/AIS Play Sports.w3u",
           "import":"false"         
         }
       ]
@@ -71,13 +71,13 @@
     {
       "name": "ดูหนังออนไลน์",
       "author": "หรรมน้อย IPTV",
-      "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_29_19.png",
+      "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 16 เม.ย. 2569 09_29_19.png",
       "groups": [
         {
           "name": "037hdd",
           "image": "https://www.037hddmovie.com/wp-content/uploads/2025/12/LOGO_037HDDMOVIE.png",
           "imageScale": "fitStart",
-          "url": "https://raw.githubusercontent.com/nongakka/037hd/main/data/wiseplay/index.json",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/037hd/main/data/wiseplay/index.json",
           "import":"false"          
         }
       ]
@@ -85,24 +85,24 @@
     {
       "name": "ดูซีรีย์ออนไลน์",
       "author": "หรรมน้อย IPTV",
-      "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_36_16.png",
+      "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 16 เม.ย. 2569 09_36_16.png",
       "groups": [
         {
           "name": "Flixmono",
           "image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-          "url": "https://raw.githubusercontent.com/nongakka/flixmono/main/data/wiseplay/index.json",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/flixmono/main/data/wiseplay/index.json",
           "import":"false"         
         },
         {
           "name": "Goseries4k",
           "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
-          "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/index.json",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/goseries/main/data/wiseplay/index.json",
           "import":"false"         
         },
         {
           "name": "หนังสั้นจีน",
           "image": "https://www.หนังสั้น.online/assets/images/icon_shortflim.webp",
-          "url": "https://raw.githubusercontent.com/nongakka/shortmovie/main/m3u/all.m3u",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/shortmovie/main/m3u/all.m3u",
           "import":"false"         
         }
       ]
@@ -110,12 +110,12 @@
     {
       "name": "ดูอนิเมะออนไลน์",
       "author": "หรรมน้อย IPTV",
-      "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 16 เม.ย. 2569 09_44_26.png",
+      "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 16 เม.ย. 2569 09_44_26.png",
       "groups": [
         {
           "name": "Anime-hdzero",
-          "image": "https://raw.githubusercontent.com/nongakka/logo/main/ChatGPT Image 14 เม.ย. 2569 09_46_35.png",
-          "url": "https://raw.githubusercontent.com/nongakka/hdzero/main/data/index.json",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 14 เม.ย. 2569 09_46_35.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/hdzero/main/data/index.json",
           "import":"false"         
         }
       ]
