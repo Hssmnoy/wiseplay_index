@@ -50,6 +50,12 @@
         {
           "name": "โปรแกรมแข่งกีฬา",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
+          "url": "https://drive.google.com/uc?id=15Ye3NPw0cjNrJGTu2Q2aoqoApOp8GipC&export=download",
+          "import":"false"          
+        },
+        {
+          "name": "โปรแกรมแข่งกีฬา",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/Doballkub.json",
           "import":"false"          
         },
