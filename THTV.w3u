@@ -109,7 +109,7 @@
         {
           "name": "MyseriesHD",
           "image": "https://myserieshd.com/wp-content/uploads/2025/05/logo1-2.webp",
-          "url": "https://raw.githubusercontent.com/Hssmnoy/goseries/main/data/wiseplay/index.json",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/myseries/main/wiseplay/index.json",
           "import":"false"         
         },
         {
