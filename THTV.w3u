@@ -23,6 +23,12 @@
          "import":"false"          
        },
        {
+          "name": "การ์ตูน สารคดี",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 9 พ.ค. 2569 13_54_51.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/GIGATV.w3u",
+         "import":"false"          
+       },
+       {
           "name": "ช่องบันเทิง",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT%20Image%2017%20เม.ย.%202569%2012_27_34.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/movie.w3u",
@@ -154,7 +160,7 @@
         },
         {
           "name": "037 Anime",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 9 พ.ค. 2569 13_58_37.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/037anime/main/wiseplay/index.json",
           "import":"false"         
         },
