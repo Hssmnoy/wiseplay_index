@@ -88,6 +88,13 @@
           "import":"false"          
         },
         {
+          "name": "LK-HD",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+          "imageScale": "fitStart",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/index.json",
+          "import":"false"          
+        },
+        {
           "name": "Doo-nang",
           "image": "https://s3.ดูบอลดูหนัง.com/global/banners/block-8a87dca3-0b6c-4b84-aad7-d2f392aef5da.jpeg",
           "imageScale": "fitStart",
