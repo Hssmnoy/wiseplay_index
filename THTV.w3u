@@ -135,7 +135,7 @@
         {
           "name": "หนังสั้นจีน",
           "image": "https://www.หนังสั้น.online/assets/images/icon_shortflim.webp",
-          "url": "https://raw.githubusercontent.com/Hssmnoy/shortmovie/main/m3u/all.m3u",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/myseries/main/wiseplay/short.json",
           "import":"false"         
         }
       ]
