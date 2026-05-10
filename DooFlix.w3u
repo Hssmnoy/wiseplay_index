@@ -435,7 +435,7 @@
     {
       "name": "Mono Max1",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sYyiuEg5rNU%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://alpha.footstv.com/dooflix_x1/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://alpha.footstv.com/dooflix_x1/monomax1/chunks.m3u8?nimblesessionid=3391062&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTAvMjAyNiAwMjoyNjoyNSBQTSZoYXNoX3ZhbHVlPUNLQUEvK0NxVjFXMG94cjNtcHlDTmc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -451,7 +451,7 @@
     {
       "name": "Mono Max3",
       "image": "https://s3.dooflixtv.com/assets/images/tv/QoZvad55JuE%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://alpha.footstv.com/dooflix_x1/monomax3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax3/chunks.m3u8?nimblesessionid=4160457&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -459,7 +459,7 @@
     {
       "name": "Mono Max4",
       "image": "https://s3.dooflixtv.com/assets/images/tv/NzRKXEx07Rz%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://alpha.footstv.com/dooflix_x1/monomax4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://alpha.footstv.com/dooflix_x1/monomax4/chunks.m3u8?nimblesessionid=3391226&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -467,7 +467,7 @@
     {
       "name": "Mono Max5",
       "image": "https://s3.dooflixtv.com/assets/images/tv/ytf9dEAHJkI%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://alpha.footstv.com/dooflix_x1/monomax5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://alpha.footstv.com/dooflix_x1/monomax5/chunks.m3u8?nimblesessionid=3391272&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
