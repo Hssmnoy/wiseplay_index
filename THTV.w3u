@@ -81,7 +81,7 @@
         },
         {
           "name": "Dooflix",
-          "image": "https://dooflixtv.com/images/2024/logo/02_DooFlixTV_Logo300.png",
+          "image": "https://dooflixtv.com/images/2024/logo/01_DooFlixTV_Logo640.png",
           "imageScale": "fitStart",
           "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/DooFlix.w3u",
           "import":"false"         
