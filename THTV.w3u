@@ -74,8 +74,8 @@
           "import":"false"         
         },
         {
-          "name": "Dookeela2_TEST",
-          "image": "https://linktr.ee/og/image/dookeela.jpg",
+          "name": "Guflix",
+          "image": "http://guflix.streaming-fast.com/logo/2tvonline.jpg",
           "imageScale": "fitStart",
           "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/guflixlive.w3u",
           "import":"false"         
