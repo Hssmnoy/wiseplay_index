@@ -13,7 +13,7 @@
     {
       "name": "CH3-HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/3hd.png",
-      "url": "https://alpha.footstv.com/dooflix_x4/3hd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwNzoxNjo0OSBBTSZoYXNoX3ZhbHVlPTgwdWdWaW9UZTYydHErekh2MFkrMEE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://alpha.footstv.com/dooflix_x4/3hd_720p/chunks.m3u8?nimblesessionid=3383580&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTAvMjAyNiAxMjo1NTowMCBQTSZoYXNoX3ZhbHVlPU44dnVUT3hhQWlKYnVMRWVtNUZpTFE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -21,7 +21,7 @@
     {
       "name": "CH5-HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/5hd.png",
-      "url": "https://alpha.footstv.com/dooflix_x4/5hd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/5hd_720p/chunks.m3u8?nimblesessionid=4153311&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTAvMjAyNiAxMjo1NjowNCBQTSZoYXNoX3ZhbHVlPVNGOTBRci9HQW9hYVI5dGxIUDM1a1E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
