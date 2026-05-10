@@ -77,7 +77,7 @@
           "name": "Guflix",
           "image": "http://guflix.streaming-fast.com/logo/2tvonline.jpg",
           "imageScale": "fitStart",
-          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/guflixlive.w3u",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/guflixlive.w3u",
           "import":"false"         
         },
         {
