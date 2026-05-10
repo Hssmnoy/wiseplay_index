@@ -67,6 +67,13 @@
           "import":"false"         
         },
         {
+          "name": "Dookeela",
+          "image": "https://linktr.ee/og/image/dookeela.jpg",
+          "imageScale": "fitStart",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/playlist_dkl2.json",
+          "import":"false"         
+        },
+        {
           "name": "AIS Sport",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/images.jpg",
           "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/AIS Play Sports.w3u",
