@@ -42,21 +42,27 @@
     "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 10_21_56.png",
     "groups": [
         {
-          "name": "โปรแกรมแข่งกีฬา",
+          "name": "โปรแกรมแข่งกีฬา 1",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/dookeela4.json",
           "import":"false"        
         },
         {
-          "name": "โปรแกรมแข่งกีฬา",
+          "name": "โปรแกรมแข่งกีฬา 2",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/playlist/sportsonline.json",
           "import":"false"          
         },
         {
-          "name": "โปรแกรมแข่งกีฬา",
+          "name": "โปรแกรมแข่งกีฬา 3",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/Doballkub.json",
+          "import":"false"          
+        },
+        {
+          "name": "โปรแกรมแข่งกีฬา 4",
+          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 17 เม.ย. 2569 15_47_17.png",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/tidball24.json",
           "import":"false"          
         },
         {
