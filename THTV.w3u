@@ -80,10 +80,10 @@
           "import":"false"         
         },
         {
-          "name": "Guflix",
-          "image": "http://guflix.streaming-fast.com/logo/2tvonline.jpg",
+          "name": "Dooflix",
+          "image": "https://dooflixtv.com/images/2024/logo/02_DooFlixTV_Logo300.png",
           "imageScale": "fitStart",
-          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/guflixlive.w3u",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/DooFlix.w3u",
           "import":"false"         
         },
         {
