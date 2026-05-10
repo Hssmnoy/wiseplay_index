@@ -74,6 +74,13 @@
           "import":"false"         
         },
         {
+          "name": "Dookeela2_TEST",
+          "image": "https://linktr.ee/og/image/dookeela.jpg",
+          "imageScale": "fitStart",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/guflixlive.w3u",
+          "import":"false"         
+        },
+        {
           "name": "AIS Sport",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/images.jpg",
           "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/AIS Play Sports.w3u",
