@@ -172,12 +172,6 @@
           "import":"false"         
         },
         {
-          "name": "037 Anime",
-          "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 9 พ.ค. 2569 13_58_37.png",
-          "url": "https://raw.githubusercontent.com/Hssmnoy/037anime/main/wiseplay/index.json",
-          "import":"false"         
-        },
-        {
           "name": "Anime-hdzero",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/ChatGPT Image 14 เม.ย. 2569 09_46_35.png",
           "url": "https://raw.githubusercontent.com/Hssmnoy/hdzero/main/data/index.json",
