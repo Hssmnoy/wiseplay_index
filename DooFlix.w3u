@@ -13,7 +13,7 @@
     {
       "name": "CH3-HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/3hd.png",
-      "url": "https://beta.footstv.com/dooflix_x4/3hd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwNzoxNjo0OSBBTSZoYXNoX3ZhbHVlPTgwdWdWaW9UZTYydHErekh2MFkrMEE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/3hd_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwNzoxNjo0OSBBTSZoYXNoX3ZhbHVlPTgwdWdWaW9UZTYydHErekh2MFkrMEE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -21,7 +21,7 @@
     {
       "name": "CH5-HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/5hd.png",
-      "url": "https://beta.footstv.com/dooflix_x4/5hd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/5hd_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -29,7 +29,7 @@
     {
       "name": "CH7-HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/7hd.png",
-      "url": "https://beta.footstv.com/dooflix_x4/7hd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/7hd_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -37,7 +37,7 @@
     {
       "name": "CH8",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/8.png",
-      "url": "https://beta.footstv.com/dooflix_x4/ch8_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/ch8_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -45,7 +45,7 @@
     {
       "name": "MCOT HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/mcot.png",
-      "url": "https://beta.footstv.com/dooflix_x4/mcothd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/mcothd_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -53,7 +53,7 @@
     {
       "name": "NBT",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/nbt.png",
-      "url": "https://beta.footstv.com/dooflix_x4/nbt_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/nbt_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -61,7 +61,7 @@
     {
       "name": "Thairath TV",
       "image": "https://s3.dooflixtv.com/assets/images/tv/CAJw7MUj99UhevPkGY0kbT0ER33XBhethairath.png",
-      "url": "https://beta.footstv.com/dooflix_x4/thairath_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/thairath_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -69,7 +69,7 @@
     {
       "name": "TNN 24",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/tnn.png",
-      "url": "https://beta.footstv.com/dooflix_x4/tnn24_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/tnn24_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -77,7 +77,7 @@
     {
       "name": "ONE HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/one.png",
-      "url": "https://beta.footstv.com/dooflix_x4/one_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/one_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -85,7 +85,7 @@
     {
       "name": "Thai PBS",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/thaipbs.png",
-      "url": "https://beta.footstv.com/dooflix_x4/thaipbs_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/thaipbs_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -93,7 +93,7 @@
     {
       "name": "PPTV HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/pptv.png",
-      "url": "https://beta.footstv.com/dooflix_x4/pptv_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/pptv_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -101,7 +101,7 @@
     {
       "name": "AmarinTV HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/amarin.png",
-      "url": "https://beta.footstv.com/dooflix_x4/amarintv_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/amarintv_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -109,7 +109,7 @@
     {
       "name": "Workpoint TV",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/workpoint.png",
-      "url": "https://beta.footstv.com/dooflix_x4/workpoint_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/workpoint_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -117,7 +117,7 @@
     {
       "name": "GMM 25",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/gmm.png",
-      "url": "https://beta.footstv.com/dooflix_x4/gmm25_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/gmm25_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -125,7 +125,7 @@
     {
       "name": "MONO 29",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/mono.png",
-      "url": "https://beta.footstv.com/dooflix_x4/mono29_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/mono29_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -133,7 +133,7 @@
     {
       "name": "MONO Plus",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/monoplus.png",
-      "url": "https://beta.footstv.com/dooflix_x1/monoplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monoplus/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -141,7 +141,7 @@
     {
       "name": "True4U",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/true4utv.png",
-      "url": "https://beta.footstv.com/dooflix_x4/true4u_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/true4u_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -149,7 +149,7 @@
     {
       "name": "Nation TV",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/nation.png",
-      "url": "https://beta.footstv.com/dooflix_x4/nation_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/nation_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -157,7 +157,7 @@
     {
       "name": "Top News",
       "image": "https://s3.dooflixtv.com/assets/images/tv/digital/topnews.png",
-      "url": "https://beta.footstv.com/dooflix_x4/topnews_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x4/topnews_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -175,7 +175,7 @@
     {
       "name": "Cartoon Network",
       "image": "https://s3.dooflixtv.com/assets/images/tv/cartoon/cn.png",
-      "url": "https://beta.footstv.com/dooflix_x1/cartoonnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/cartoonnetwork/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -183,7 +183,7 @@
     {
       "name": "Cartoon Nito",
       "image": "https://s3.dooflixtv.com/assets/images/tv/TTIFlFQ8xRhMER7ANQbCblXgC85tebNcartoonito.png",
-      "url": "https://beta.footstv.com/dooflix_x3/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/aniplus/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -191,7 +191,7 @@
     {
       "name": "Nickelodeon",
       "image": "https://s3.dooflixtv.com/assets/images/tv/6fB249brsMvtDLJxoeJLshqd0FaWAqJUntitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/nickelodeon/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -199,7 +199,7 @@
     {
       "name": "True SparkPlay",
       "image": "https://s3.dooflixtv.com/assets/images/tv/cartoon/truesparkplay.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truesparkplay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truesparkplay/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -207,7 +207,7 @@
     {
       "name": "Boomerang",
       "image": "https://s3.dooflixtv.com/assets/images/tv/7qI4lXeWpRMUntitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/boomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/boomerang/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -215,7 +215,7 @@
     {
       "name": "Nick JR",
       "image": "https://s3.dooflixtv.com/assets/images/tv/70RP1g9xfXtUntitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/nickjr/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -233,7 +233,7 @@
    {
       "name": "HBO",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/hbo.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-hbo-thai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-hbo-thai/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -241,7 +241,7 @@
     {
       "name": "HBO Hit",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/hbohits.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-hbo-hit/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -249,7 +249,7 @@
     {
       "name": "HBO Signature",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/hbosig.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-hbo-signature/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -257,7 +257,7 @@
     {
       "name": "HBO Family",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/hbofamily.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hbo-family/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -265,7 +265,7 @@
     {
       "name": "AXN",
       "image": "https://s3.dooflixtv.com/assets/images/tv/entertain/axn.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-axn/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -273,7 +273,7 @@
     {
       "name": "DreamWork",
       "image": "https://s3.dooflixtv.com/assets/images/tv/ePP8UaRIcYsmjtmNcbGrN9pXvcChPTZdreamwork.png",
-      "url": "https://beta.footstv.com/dooflix_x1/dreamworks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/dreamworks/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -281,7 +281,7 @@
     {
       "name": "Cinemax",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/cinemax.png",
-      "url": "https://beta.footstv.com/dooflix_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/fhd-cinemax/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -289,7 +289,7 @@
     {
       "name": "WarnerTV",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/wbtv.png",
-      "url": "https://beta.footstv.com/dooflix_x1/wbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/wbtv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -297,7 +297,7 @@
     {
       "name": "True Movie Hits",
       "image": "https://s3.dooflixtv.com/assets/images/tv/JP8JpTXuXBScqgUTdSv29pfWuoBGaH0moviehits_(1).png",
-      "url": "https://beta.footstv.com/dooflix_x1/moviehits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/moviehits/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -305,7 +305,7 @@
     {
       "name": "True FilmHD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/h2vv1IuK5HG1NLi6SGFJh248qYS8JIetruefilmhd.png",
-      "url": "https://beta.footstv.com/dooflix_x1/true-filmhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/true-filmhd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -313,7 +313,7 @@
     {
       "name": "True FilmHD2",
       "image": "https://s3.dooflixtv.com/assets/images/tv/y3ezDIC5r6qtdqjzTkdIbvsFhGbuK8struefilmhd2_(1).png",
-      "url": "https://beta.footstv.com/dooflix_x1/true-filmhd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/true-filmhd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -321,7 +321,7 @@
     {
       "name": "True Thaifilm",
       "image": "https://s3.dooflixtv.com/assets/images/tv/movie/truethaifilm.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truethaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truethaifilm/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -329,7 +329,7 @@
     {
       "name": "True Asian More",
       "image": "https://s3.dooflixtv.com/assets/images/tv/XaSIO94qGjzo3e5EF94PKAXkHvrecl0trueasianmore_(1).png",
-      "url": "https://beta.footstv.com/dooflix_x1/trueasianmore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/trueasianmore/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -337,7 +337,7 @@
     {
       "name": "True Film Asia",
       "image": "https://s3.dooflixtv.com/assets/images/tv/oaAofV5K9iC2NrblejU5gX645lMBHjftruefilmasia.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truefilmasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truefilmasia/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -345,7 +345,7 @@
     {
       "name": "True Series",
       "image": "https://s3.dooflixtv.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png",
-      "url": "https://beta.footstv.com/dooflix_x1/trueseries/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/trueseries/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -353,7 +353,7 @@
     {
       "name": "3BB Asia",
       "image": "https://s3.dooflixtv.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3_370x180_(1).jpeg",
-      "url": "https://beta.footstv.com/dooflix_x1/3bbasian/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/3bbasian/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -361,7 +361,7 @@
     {
       "name": "GEM",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sbLMUWTMUljJyAYYGs1oMA5qgbFuCKNgem.jpeg",
-      "url": "https://beta.footstv.com/dooflix_x3/gem/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/gem/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -369,7 +369,7 @@
     {
       "name": "CCM",
       "image": "https://s3.dooflixtv.com/assets/images/tv/entertain/ccm.png",
-      "url": "https://beta.footstv.com/dooflix_x3/celestial-classic-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/celestial-classic-movies/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -377,7 +377,7 @@
     {
       "name": "Rock Entertainment",
       "image": "https://s3.dooflixtv.com/assets/images/tv/yyXcdVEDUhL8YOcH9hmvHHp4JSq4rH0Untitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x3/blueant/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/blueant/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -385,7 +385,7 @@
     {
       "name": "Rack Action",
       "image": "https://s3.dooflixtv.com/assets/images/tv/cPv75zm9B3WiGtFrAjl2U1AInA4IpoAUntitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x3/blueantex/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/blueantex/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -393,7 +393,7 @@
     {
       "name": "True X-Zyte",
       "image": "https://s3.dooflixtv.com/assets/images/tv/entertain/truexzyte.png",
-      "url": "https://beta.footstv.com/dooflix_x1/xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/xzyte/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -401,7 +401,7 @@
     {
       "name": "Mono Music",
       "image": "https://s3.dooflixtv.com/assets/images/tv/fUH4QXVIvl6%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/mono29music/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/mono29music/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -409,7 +409,7 @@
     {
       "name": "Food Network Asia",
       "image": "https://s3.dooflixtv.com/assets/images/tv/IbbwhGuE0fIO2qvs0QVIHnNplrHsmG5Untitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x3/foodnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/foodnetwork/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -417,7 +417,7 @@
     {
       "name": "Asian Food Network",
       "image": "https://s3.dooflixtv.com/assets/images/tv/2ViJvwI2jKQyt3wmFPZnGSV8P8mYaQbUntitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x3/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/hd-afc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -431,12 +431,10 @@
    "name": "ช่องกีฬา",
    "image": "https://drive.google.com/uc?id=1TUi3QYAmx-Uq9VzRf8JE5uKn7IbPl54I",
    "stations": [
- https://beta.footstv.com/dooflix_x1/monomax1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTQvMjAyNiAwODo0NDowNCBBTSZoYXNoX3ZhbHVlPTYyOVhVN1k0RXp0NUprYnc3WWpGVUE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz
- https://beta.footstv.com/dooflix_x1/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz
-   {
+    {
       "name": "Mono Max1",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sYyiuEg5rNU%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -444,7 +442,7 @@
     {
       "name": "Mono Max2",
       "image": "https://s3.dooflixtv.com/assets/images/tv/Xg7D41W9nCA%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -452,7 +450,7 @@
     {
       "name": "Mono Max3",
       "image": "https://s3.dooflixtv.com/assets/images/tv/QoZvad55JuE%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -460,7 +458,7 @@
     {
       "name": "Mono Max4",
       "image": "https://s3.dooflixtv.com/assets/images/tv/NzRKXEx07Rz%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -468,7 +466,7 @@
     {
       "name": "Mono Max5",
       "image": "https://s3.dooflixtv.com/assets/images/tv/ytf9dEAHJkI%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -476,7 +474,7 @@
     {
       "name": "Mono Max6",
       "image": "https://s3.dooflixtv.com/assets/images/tv/mvGcvtMljQK%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -484,7 +482,7 @@
     {
       "name": "Mono Max7",
       "image": "https://s3.dooflixtv.com/assets/images/tv/CAJw7MUj99UhevPkGY0kbT0ER33XBhethairath.png",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -492,7 +490,7 @@
     {
       "name": "Mono Max8",
       "image": "https://s3.dooflixtv.com/assets/images/tv/eUuWR0xZ6Lf%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -500,7 +498,7 @@
     {
       "name": "Mono Max9",
       "image": "https://s3.dooflixtv.com/assets/images/tv/YpThz5MPrIg%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax9/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -508,7 +506,7 @@
     {
       "name": "Mono Max10",
       "image": "https://s3.dooflixtv.com/assets/images/tv/wpBFccFsUuZ%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax10/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -516,7 +514,7 @@
     {
       "name": "Mono Max11",
       "image": "https://s3.dooflixtv.com/assets/images/tv/vSEV05ZUjeP%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax11/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -524,7 +522,7 @@
     {
       "name": "Mono Max12",
       "image": "https://s3.dooflixtv.com/assets/images/tv/2uPslUC1wdevSEV05ZUjeP%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/monomax12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/monomax12/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -532,7 +530,7 @@
     {
       "name": "Bein sport1",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/bein1.png",
-      "url": "https://beta.footstv.com/dooflix_x1/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -540,7 +538,7 @@
     {
       "name": "Bein sport2",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/bein2.png",
-      "url": "https://beta.footstv.com/dooflix_x1/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -548,7 +546,7 @@
     {
       "name": "Bein sport3",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport_foreign/bein3.png",
-      "url": "https://beta.footstv.com/dooflix_x1/bein3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -556,7 +554,7 @@
     {
       "name": "Bein sport4",
       "image": "https://s3.dooflixtv.com/assets/images/tv/6vbnLhXpKgO5pqlbL09PsyUzVNwJWWkUntitled-1-Recovered.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/bein4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -564,7 +562,7 @@
     {
       "name": "Bein sport5",
       "image": "https://s3.dooflixtv.com/assets/images/tv/Pu1nFoz254ezMDBXiOKu6mMDvexAyJnUntitled-1-Recovered.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/bein5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -572,7 +570,7 @@
     {
       "name": "Bein sport6",
       "image": "https://s3.dooflixtv.com/assets/images/tv/2V9qqg106ImUntitled-1-Recovered.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/bein6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -580,7 +578,7 @@
     {
       "name": "Bein sport7",
       "image": "https://s3.dooflixtv.com/assets/images/tv/Rs9ftjTQWvcUntitled-1-Recovered.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/bein7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -588,7 +586,7 @@
     {
       "name": "Bein sport8",
       "image": "https://s3.dooflixtv.com/assets/images/tv/GRvcmZXYpZsQSQutNzRxd32z7sZBLS3%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-Recovered.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/bein8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/bein8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -596,7 +594,7 @@
     {
       "name": "Truepremiere3",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere3.png",
-      "url": "https://beta.footstv.com/dooflix_x2/truepremierhd3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x2/truepremierhd3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -604,7 +602,7 @@
     {
       "name": "Truepremiere4",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere4.png",
-      "url": "https://beta.footstv.com/dooflix_x2/truepremierhd4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x2/truepremierhd4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -612,7 +610,7 @@
     {
       "name": "Truepremiere5",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere5.png",
-      "url": "https://beta.footstv.com/dooflix_x2/truepremierhd5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x2/truepremierhd5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -620,7 +618,7 @@
     {
       "name": "True Sport HD",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truesporthd.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-tsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-tsport1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -628,7 +626,7 @@
     {
       "name": "True Sport HD 2",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truesporthd2.png",
-      "url": "https://beta.footstv.com/dooflix_x5/truesporthd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x5/truesporthd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -636,7 +634,7 @@
     {
       "name": "True Sport HD 3",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truesporthd3.png",
-      "url": "https://beta.footstv.com/dooflix_x5/truesporthd3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x5/truesporthd3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -644,7 +642,7 @@
     {
       "name": "True Sport HD 4",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truesporthd4.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-tsport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-tsport4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -652,7 +650,7 @@
     {
       "name": "True Sport 5",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truesporthd5.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truesport5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truesport5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -660,7 +658,7 @@
     {
       "name": "True Sport 7",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truesporthd7.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truesport7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truesport7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -668,7 +666,7 @@
     {
       "name": "True Tennis",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sport/truetennis.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-tennis/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -676,7 +674,7 @@
     {
       "name": "Goft Channel",
       "image": "https://s3.dooflixtv.com/assets/images/tv/A47xxydQNoaUntitled-2.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-golf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-golf2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -684,7 +682,7 @@
     {
       "name": "SPOTV1",
       "image": "https://s3.dooflixtv.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png",
-      "url": "https://beta.footstv.com/dooflix_x1/spotv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/spotv1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -692,7 +690,7 @@
     {
       "name": "SPOTV2",
       "image": "https://s3.dooflixtv.com/assets/images/tv/MjjNBcRjUcAq8qMlGMLE5lD97u28Quzspotv2.png",
-      "url": "https://beta.footstv.com/dooflix_x1/spotv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/spotv2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -709,7 +707,7 @@
     {
       "name": "Discovery",
       "image": "https://s3.dooflixtv.com/assets/images/tv/documentary/discovery.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-discovery/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -717,7 +715,7 @@
     {
       "name": "Animal Planet",
       "image": "https://s3.dooflixtv.com/assets/images/tv/luEFfyPlScmkXkYpGjpUc2IGyaDmMSWUntitled-1.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-animalplanet/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -725,7 +723,7 @@
     {
       "name": "Animal Show",
       "image": "https://s3.dooflixtv.com/assets/images/tv/dbLFi1PM8pqrH4pVCbR3HxZmYdQQP0z1245.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/animalshow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/animalshow/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -733,7 +731,7 @@
     {
       "name": "Discovery Asia",
       "image": "https://s3.dooflixtv.com/assets/images/tv/YLUgvxqoWIjDt2txblBTAHYXFZ6xnMPdiscoveryasia.png",
-      "url": "https://beta.footstv.com/dooflix_x1/discovery-asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/discovery-asia/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -741,7 +739,7 @@
     {
       "name": "Samrujlok",
       "image": "https://s3.dooflixtv.com/assets/images/tv/cQiU4gTwIa9samrujlok.png",
-      "url": "https://beta.footstv.com/dooflix_x1/sllok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/sllok/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -749,7 +747,7 @@
     {
       "name": "Thainess",
       "image": "https://s3.dooflixtv.com/assets/images/tv/3QMYaUybddn1224556.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/thainess/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/thainess/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -757,7 +755,7 @@
     {
       "name": "Kong Dee",
       "image": "https://s3.dooflixtv.com/assets/images/tv/sMqTXBdzOao123.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/kongd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/kongd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -765,7 +763,7 @@
     {
       "name": "MySci",
       "image": "https://s3.dooflixtv.com/assets/images/tv/uYjgVMBjGBFUntitled-2.jpg",
-      "url": "https://beta.footstv.com/dooflix_x1/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/mysci/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -773,7 +771,7 @@
     {
       "name": "True Explorer Life",
       "image": "https://s3.dooflixtv.com/assets/images/tv/documentary/trueexplorerlife.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truelife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truelife/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -781,7 +779,7 @@
     {
       "name": "True Explorer Sci",
       "image": "https://s3.dooflixtv.com/assets/images/tv/documentary/trueexplorersci.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truesci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truesci/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -789,7 +787,7 @@
     {
       "name": "True Explorer Wild",
       "image": "https://s3.dooflixtv.com/assets/images/tv/documentary/trueexplorerwild.png",
-      "url": "https://beta.footstv.com/dooflix_x1/truewild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/truewild/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -797,7 +795,7 @@
     {
       "name": "Love4k Nature",
       "image": "https://s3.dooflixtv.com/assets/images/tv/vuTpeJWnlrR6q6k2IIdEOQlUQWBhUkjlove4knature.png",
-      "url": "https://beta.footstv.com/dooflix_x3/lovenature4k/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x3/lovenature4k/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -805,7 +803,7 @@
     {
       "name": "History",
       "image": "https://s3.dooflixtv.com/assets/images/tv/documentary/history.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-history/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
@@ -813,7 +811,7 @@
     {
       "name": "TCL",
       "image": "https://s3.dooflixtv.com/assets/images/tv/documentary/tlc.png",
-      "url": "https://beta.footstv.com/dooflix_x1/hd-tlc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+      "url": "https://beta.footstv.com/dooflix_x1/hd-tlc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyNiAwMjo1NDowOCBBTSZoYXNoX3ZhbHVlPVVCSGl1aXF5VUJ1S0EwQWM4Q0tXeHc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
       "referer": "https://dooflixtv.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
       "playInNatPlayer": "true"
