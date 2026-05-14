@@ -80,6 +80,13 @@
           "import":"false"         
         },
         {
+          "name": "DooFlixTV",
+          "image": "https://dooflixtv.com/images/2024/logo/02_DooFlixTV_Logo300.png",
+          "imageScale": "fitStart",
+          "url": "https://raw.githubusercontent.com/Hssmnoy/wiseplay_index/main/DooFlix.w3u",
+          "import":"false"         
+        },
+        {
           "name": "AIS Sport",
           "image": "https://raw.githubusercontent.com/Hssmnoy/logo/main/images.jpg",
           "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/ais_sport_playlist.json",
